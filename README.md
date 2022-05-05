@@ -1,16 +1,19 @@
 <div align="center">
-  <a href="https://www.simonstalenhag.se/">
+  <a href="https://www.simonstalenhag.se/" target="_blank">
     <img alt="eth logo" src="https://pbs.twimg.com/media/FNVLDsdWUAE_SOW?format=jpg&name=large" >
   </a>
   <p align="center">
-    <a href="https://github.com/LuozhuZhang/NorthBound-Trace/graphs/contributors">
+    <a href="https://github.com/LuozhuZhang/NorthBound-Trace/graphs/contributors" target="_blank">
       <img alt="GitHub contributors" src="https://img.shields.io/github/contributors/LuozhuZhang/NorthBound-Trace">
     </a>
-    <a href="https://GitHub.com/LuozhuZhang/NorthBound-Trace/issues/">
+    <a href="https://GitHub.com/LuozhuZhang/NorthBound-Trace/issues/" target="_blank">
       <img alt="GitHub issues" src="https://badgen.net/github/issues/LuozhuZhang/NorthBound-Trace/">
     </a>
-    <a href="http://makeapullrequest.com">
+    <a href="http://makeapullrequest.com" target="_blank">
       <img alt="pull requests welcome badge" src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat">
+    </a>
+    <a href="https://twitter.com/LuozhuZhang" target="_blank">
+      <img alt="Twitter" src="https://img.shields.io/twitter/url/https/twitter.com/LuozhuZhang.svg?style=social&label=Follow%20%40LuozhuZhang">
     </a>
   </p>
 </div>
